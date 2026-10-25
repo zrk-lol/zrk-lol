@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16070a"/><stop offset=".55" stop-color="#0b0b0e"/><stop offset="1" stop-color="#050506"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="65%"><stop offset="0" stop-color="#ff1e1e" stop-opacity=".28"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></radialGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a5a"/><stop offset="1" stop-color="#c40000"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+<filter id="neon" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="2.5" result="a"/><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ff1e1e" stroke-opacity=".08"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+<clipPath id="frame"><rect width="1200" height="520" rx="18"/></clipPath>
+
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="520" fill="url(#bg)"/>
+<rect width="1200" height="520" fill="url(#grid)"/>
+<rect width="1200" height="520" fill="url(#glow)"/>
+<text x="40" y="56" font-size="15" fill="#ff4d4d" font-weight="700" text-anchor="start" letter-spacing="5">CE QUE JE CONSTRUIS</text>
+<rect x="300" y="50" width="860" height="1" fill="#26262c"/>
+<g filter="url(#soft)"><rect x="40" y="90" width="550" height="190" rx="16" fill="#121216" stroke="#26262c"/></g>
+<rect x="40" y="90" width="4" height="190" rx="2" fill="url(#red)"/>
+<circle cx="110" cy="160" r="40" fill="#ff1e1e" fill-opacity=".08" stroke="#ff1e1e" stroke-opacity=".3"/>
+<g transform="translate(110,160)" fill="none" stroke="#ff4d4d" stroke-width="2.4"><circle r="22"/><ellipse rx="9" ry="22"/><path d="M-22 0H22M-19 -11H19M-19 11H19"/></g>
+<text x="560" y="138" font-size="40" fill="#2a2a31" font-weight="800" text-anchor="end" >01</text>
+<text x="170" y="152" font-size="27" fill="#f4f4f6" font-weight="700" text-anchor="start" >Sites web</text>
+<text x="170" y="190" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >Vitrines, portfolios, boutiques.</text>
+<text x="170" y="216" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >Rapides, propres, faits pour convertir.</text>
+<rect x="170" y="238" width="60" height="3" rx="1.5" fill="#ff1e1e"/><g filter="url(#soft)"><rect x="610" y="90" width="550" height="190" rx="16" fill="#121216" stroke="#26262c"/></g>
+<rect x="610" y="90" width="4" height="190" rx="2" fill="url(#red)"/>
+<circle cx="680" cy="160" r="40" fill="#ff1e1e" fill-opacity=".08" stroke="#ff1e1e" stroke-opacity=".3"/>
+<g transform="translate(680,160)" fill="none" stroke="#ff4d4d" stroke-width="2.4"><rect x="-14" y="-24" width="28" height="48" rx="6"/><path d="M-5 -18H5"/><circle cy="17" r="2.5" fill="#ff4d4d"/></g>
+<text x="1130" y="138" font-size="40" fill="#2a2a31" font-weight="800" text-anchor="end" >02</text>
+<text x="740" y="152" font-size="27" fill="#f4f4f6" font-weight="700" text-anchor="start" >Applications mobiles</text>
+<text x="740" y="190" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >iOS et Android, prêtes pour</text>
+<text x="740" y="216" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >l'App Store et le Play Store.</text>
+<rect x="740" y="238" width="60" height="3" rx="1.5" fill="#ff1e1e"/><g filter="url(#soft)"><rect x="40" y="300" width="550" height="190" rx="16" fill="#121216" stroke="#26262c"/></g>
+<rect x="40" y="300" width="4" height="190" rx="2" fill="url(#red)"/>
+<circle cx="110" cy="370" r="40" fill="#ff1e1e" fill-opacity=".08" stroke="#ff1e1e" stroke-opacity=".3"/>
+<g transform="translate(110,370)" fill="none" stroke="#ff4d4d" stroke-width="2.4"><rect x="-20" y="-12" width="40" height="30" rx="9"/><path d="M0 -12V-22"/><circle cy="-24" r="3" fill="#ff4d4d"/><circle cx="-8" cy="2" r="3.5" fill="#ff4d4d"/><circle cx="8" cy="2" r="3.5" fill="#ff4d4d"/><path d="M-26 0V8M26 0V8"/></g>
+<text x="560" y="348" font-size="40" fill="#2a2a31" font-weight="800" text-anchor="end" >03</text>
+<text x="170" y="362" font-size="27" fill="#f4f4f6" font-weight="700" text-anchor="start" >Bots &amp; automatisation</text>
+<text x="170" y="400" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >Discord, Telegram, WhatsApp.</text>
+<text x="170" y="426" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >Pensés pour ta communauté.</text>
+<rect x="170" y="448" width="60" height="3" rx="1.5" fill="#ff1e1e"/><g filter="url(#soft)"><rect x="610" y="300" width="550" height="190" rx="16" fill="#121216" stroke="#26262c"/></g>
+<rect x="610" y="300" width="4" height="190" rx="2" fill="url(#red)"/>
+<circle cx="680" cy="370" r="40" fill="#ff1e1e" fill-opacity=".08" stroke="#ff1e1e" stroke-opacity=".3"/>
+<g transform="translate(680,370)" fill="none" stroke="#ff4d4d" stroke-width="2.4"><path d="M0 -24L20 -16V0C20 13 11 21 0 25C-11 21 -20 13 -20 0V-16Z"/><path d="M-8 1L-2 7L9 -6"/></g>
+<text x="1130" y="348" font-size="40" fill="#2a2a31" font-weight="800" text-anchor="end" >04</text>
+<text x="740" y="362" font-size="27" fill="#f4f4f6" font-weight="700" text-anchor="start" >Cybersécurité</text>
+<text x="740" y="400" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >Audits, accès protégés,</text>
+<text x="740" y="426" font-size="18" fill="#9a9aa4" font-weight="400" text-anchor="start" >bonnes pratiques dès le départ.</text>
+<rect x="740" y="448" width="60" height="3" rx="1.5" fill="#ff1e1e"/>
+<rect width="1200" height="520" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="519" rx="18" fill="none" stroke="#ff1e1e" stroke-opacity=".35"/>
+</svg>

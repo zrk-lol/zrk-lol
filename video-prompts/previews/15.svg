@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16070a"/><stop offset=".55" stop-color="#0b0b0e"/><stop offset="1" stop-color="#050506"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="65%"><stop offset="0" stop-color="#ff1e1e" stop-opacity=".28"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></radialGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a5a"/><stop offset="1" stop-color="#c40000"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+<filter id="neon" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="2.5" result="a"/><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ff1e1e" stroke-opacity=".08"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+<clipPath id="frame"><rect width="640" height="360" rx="18"/></clipPath>
+
+</defs>
+<g clip-path="url(#frame)">
+<rect width="640" height="360" fill="url(#bg)"/>
+<rect width="640" height="360" fill="url(#grid)"/>
+<rect width="640" height="360" fill="url(#glow)"/>
+
+<line x1="130" y1="150" x2="510" y2="150" stroke="#26262c" stroke-width="3"/><line x1="130" y1="150" x2="380" y2="150" stroke="#ff1e1e" stroke-width="3"/>
+<circle cx="130" cy="150" r="34" fill="#ff1e1e" stroke="#ff1e1e" stroke-width="2.5"/><text x="130" y="160" font-size="24" fill="#fff" font-weight="900" text-anchor="middle" >01</text><text x="130" y="214" font-size="16" fill="#f4f4f6" font-weight="700" text-anchor="middle" >On discute</text><text x="130" y="236" font-size="12" fill="#9a9aa4" font-weight="400" text-anchor="middle" >brief et budget</text><circle cx="320" cy="150" r="34" fill="#ff1e1e" stroke="#ff1e1e" stroke-width="2.5"/><text x="320" y="160" font-size="24" fill="#fff" font-weight="900" text-anchor="middle" >02</text><text x="320" y="214" font-size="16" fill="#f4f4f6" font-weight="700" text-anchor="middle" >Je construis</text><text x="320" y="236" font-size="12" fill="#9a9aa4" font-weight="400" text-anchor="middle" >design, code, tests</text><circle cx="510" cy="150" r="30" fill="#121216" stroke="#ff1e1e" stroke-width="2.5"/><text x="510" y="160" font-size="24" fill="#9a9aa4" font-weight="900" text-anchor="middle" >03</text><text x="510" y="214" font-size="16" fill="#9a9aa4" font-weight="700" text-anchor="middle" >Je t'accompagne</text><text x="510" y="236" font-size="12" fill="#9a9aa4" font-weight="400" text-anchor="middle" >mise en ligne</text>
+<circle cx="380" cy="150" r="8" fill="#fff" filter="url(#neon)"/>
+<text x="320" y="82" font-size="13" fill="#ff4d4d" font-weight="800" text-anchor="middle" letter-spacing="3">DE L'IDÉE À LA MISE EN LIGNE</text><rect x="0" y="262" width="640" height="98" fill="url(#fade)"/>
+<rect x="16" y="16" width="86" height="24" rx="12" fill="#000" fill-opacity=".55" stroke="#ff1e1e" stroke-opacity=".6"/>
+<text x="59" y="33" font-size="11" fill="#ff4d4d" font-weight="800" text-anchor="middle" letter-spacing="1.5">PROMPT 15</text>
+<rect x="528" y="16" width="96" height="24" rx="12" fill="#000" fill-opacity=".55" stroke="#26262c"/>
+<text x="576" y="33" font-size="11" fill="#9a9aa4" font-weight="600" text-anchor="middle" >16:9 · 15 s</text>
+<text x="20" y="316" font-size="20" fill="#f4f4f6" font-weight="700" text-anchor="start" >Méthode en 3 étapes</text>
+<path d="M22 334l9 5.5-9 5.5z" fill="#f4f4f6"/>
+<rect x="42" y="337" width="576" height="4" rx="2" fill="#fff" fill-opacity=".18"/>
+<rect x="42" y="337" width="295" height="4" rx="2" fill="#ff1e1e"/>
+<circle cx="337" cy="339" r="6" fill="#fff"/>
+<rect width="640" height="360" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="639" height="359" rx="18" fill="none" stroke="#ff1e1e" stroke-opacity=".35"/>
+</svg>

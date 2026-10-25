@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16070a"/><stop offset=".55" stop-color="#0b0b0e"/><stop offset="1" stop-color="#050506"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="65%"><stop offset="0" stop-color="#ff1e1e" stop-opacity=".28"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></radialGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a5a"/><stop offset="1" stop-color="#c40000"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+<filter id="neon" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="2.5" result="a"/><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ff1e1e" stroke-opacity=".08"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+<clipPath id="frame"><rect width="1200" height="290" rx="18"/></clipPath>
+
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="290" fill="url(#bg)"/>
+<rect width="1200" height="290" fill="url(#grid)"/>
+<rect width="1200" height="290" fill="url(#glow)"/>
+<rect x="680" y="40" width="480" height="220" rx="14" fill="#121216" stroke="#26262c" filter="url(#soft)"/>
+<circle cx="702" cy="62" r="5" fill="#ff5f57"/><circle cx="720" cy="62" r="5" fill="#febc2e"/><circle cx="738" cy="62" r="5" fill="#28c840"/>
+<text x="1140" y="67" font-size="13" fill="#9a9aa4" font-weight="400" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, monospace">panel.zrk.lol</text>
+<rect x="700" y="92" width="440" height="36" rx="8" fill="#17171c" stroke="#26262c"/>
+<circle cx="722" cy="110" r="5" fill="#2ee66b"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="738" y="115" font-size="16" fill="#f4f4f6" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">bot-discord</text>
+<text x="1124" y="115" font-size="14" fill="#9a9aa4" font-weight="400" text-anchor="end" >en ligne</text><rect x="700" y="138" width="440" height="36" rx="8" fill="#17171c" stroke="#26262c"/>
+<circle cx="722" cy="156" r="5" fill="#2ee66b"><animate attributeName="opacity" values="1;.3;1" dur="2.0s" repeatCount="indefinite"/></circle>
+<text x="738" y="161" font-size="16" fill="#f4f4f6" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">site-vitrine</text>
+<text x="1124" y="161" font-size="14" fill="#9a9aa4" font-weight="400" text-anchor="end" >en ligne</text><rect x="700" y="184" width="440" height="36" rx="8" fill="#17171c" stroke="#26262c"/>
+<circle cx="722" cy="202" r="5" fill="#ffb020"><animate attributeName="opacity" values="1;.3;1" dur="2.4000000000000004s" repeatCount="indefinite"/></circle>
+<text x="738" y="207" font-size="16" fill="#f4f4f6" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">api-boutique</text>
+<text x="1124" y="207" font-size="14" fill="#9a9aa4" font-weight="400" text-anchor="end" >déploiement</text>
+<path d="M700 250 C760 236 800 244 850 230 S950 218 1000 226 S1100 214 1140 220" fill="none" stroke="#ff1e1e" stroke-width="2" opacity=".7"/>
+<text x="48" y="92" font-size="46" fill="#f4f4f6" font-weight="800" text-anchor="start" >Ȥrk. Hosting</text>
+<rect x="372" y="62" width="132" height="34" rx="17" fill="#ff1e1e" fill-opacity=".15" stroke="#ff1e1e"/>
+<text x="438" y="85" font-size="15" fill="#ff4d4d" font-weight="800" text-anchor="middle" letter-spacing="3">BIENTÔT</text>
+<text x="48" y="140" font-size="22" fill="#9a9aa4" font-weight="400" text-anchor="start" >Héberge tes bots Discord et tes sites web,</text>
+<text x="48" y="170" font-size="22" fill="#9a9aa4" font-weight="400" text-anchor="start" >et gère tout depuis un seul panel.</text>
+<rect x="48" y="200" width="200" height="46" rx="10" fill="url(#red)"/>
+<text x="148" y="230" font-size="18" fill="#fff" font-weight="700" text-anchor="middle" >Découvrir  →</text>
+<text x="268" y="230" font-size="16" fill="#9a9aa4" font-weight="400" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">zrk.lol/hosting</text>
+<rect width="1200" height="290" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="289" rx="18" fill="none" stroke="#ff1e1e" stroke-opacity=".35"/>
+</svg>

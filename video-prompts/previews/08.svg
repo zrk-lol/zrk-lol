@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16070a"/><stop offset=".55" stop-color="#0b0b0e"/><stop offset="1" stop-color="#050506"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="65%"><stop offset="0" stop-color="#ff1e1e" stop-opacity=".28"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></radialGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a5a"/><stop offset="1" stop-color="#c40000"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+<filter id="neon" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="2.5" result="a"/><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ff1e1e" stroke-opacity=".08"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+<clipPath id="frame"><rect width="640" height="360" rx="18"/></clipPath>
+
+</defs>
+<g clip-path="url(#frame)">
+<rect width="640" height="360" fill="url(#bg)"/>
+<rect width="640" height="360" fill="url(#grid)"/>
+<rect width="640" height="360" fill="url(#glow)"/>
+
+<g filter="url(#soft)"><rect x="110" y="60" width="420" height="200" rx="16" fill="#121216" stroke="#26262c"/></g>
+<text x="140" y="132" font-size="90" fill="#ff1e1e" font-weight="900" text-anchor="start" >“</text>
+<text x="190" y="120" font-size="22" fill="#f4f4f6" font-weight="700" text-anchor="start" >Site livré en 10 jours,</text>
+<text x="190" y="150" font-size="22" fill="#f4f4f6" font-weight="700" text-anchor="start" >propre, rapide, et j'ai eu</text>
+<text x="190" y="180" font-size="22" fill="#f4f4f6" font-weight="700" text-anchor="start" >des réponses à chaque étape.</text>
+<circle cx="208" cy="224" r="18" fill="url(#red)"/><text x="208" y="230" font-size="15" fill="#fff" font-weight="800" text-anchor="middle" >S</text>
+<text x="236" y="220" font-size="14" fill="#f4f4f6" font-weight="700" text-anchor="start" >Sarah M.</text><text x="236" y="238" font-size="12" fill="#9a9aa4" font-weight="400" text-anchor="start" >Fondatrice, boutique en ligne</text>
+<polygon points="420.0,218.0 422.1,223.1 427.6,223.5 423.4,227.1 424.7,232.5 420.0,229.6 415.3,232.5 416.6,227.1 412.4,223.5 417.9,223.1" fill="#ffc531"/><polygon points="439.2,218.0 441.3,223.1 446.8,223.5 442.6,227.1 443.9,232.5 439.2,229.6 434.5,232.5 435.8,227.1 431.6,223.5 437.1,223.1" fill="#ffc531"/><polygon points="458.4,218.0 460.5,223.1 466.0,223.5 461.8,227.1 463.1,232.5 458.4,229.6 453.7,232.5 455.0,227.1 450.8,223.5 456.3,223.1" fill="#ffc531"/><polygon points="477.6,218.0 479.7,223.1 485.2,223.5 481.0,227.1 482.3,232.5 477.6,229.6 472.9,232.5 474.2,227.1 470.0,223.5 475.5,223.1" fill="#ffc531"/><polygon points="496.8,218.0 498.9,223.1 504.4,223.5 500.2,227.1 501.5,232.5 496.8,229.6 492.1,232.5 493.4,227.1 489.2,223.5 494.7,223.1" fill="#ffc531"/><rect x="0" y="262" width="640" height="98" fill="url(#fade)"/>
+<rect x="16" y="16" width="86" height="24" rx="12" fill="#000" fill-opacity=".55" stroke="#ff1e1e" stroke-opacity=".6"/>
+<text x="59" y="33" font-size="11" fill="#ff4d4d" font-weight="800" text-anchor="middle" letter-spacing="1.5">PROMPT 08</text>
+<rect x="528" y="16" width="96" height="24" rx="12" fill="#000" fill-opacity=".55" stroke="#26262c"/>
+<text x="576" y="33" font-size="11" fill="#9a9aa4" font-weight="600" text-anchor="middle" >16:9 · 12 s</text>
+<text x="20" y="316" font-size="20" fill="#f4f4f6" font-weight="700" text-anchor="start" >Avis client animé</text>
+<path d="M22 334l9 5.5-9 5.5z" fill="#f4f4f6"/>
+<rect x="42" y="337" width="576" height="4" rx="2" fill="#fff" fill-opacity=".18"/>
+<rect x="42" y="337" width="416" height="4" rx="2" fill="#ff1e1e"/>
+<circle cx="458" cy="339" r="6" fill="#fff"/>
+<rect width="640" height="360" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="639" height="359" rx="18" fill="none" stroke="#ff1e1e" stroke-opacity=".35"/>
+</svg>
