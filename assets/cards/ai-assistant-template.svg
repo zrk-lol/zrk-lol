@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect x=".5" y=".5" width="599" height="149" rx="6" fill="#111111" stroke="#2c2c2c"/>
+<rect x="0" y="0" width="5" height="150" rx="2" fill="#e10600"/>
+<g transform="translate(28 26)" fill="none" stroke="#8c8a85" stroke-width="2"><path d="M2 3h13l3 3h10v16H2z"/></g>
+<text x="66" y="45" font-size="22" font-weight="700" fill="#f2f0eb">ai-assistant-template</text>
+<text x="28" y="84" font-size="17" fill="#8c8a85">Assistant de site qui répond uniquement</text>
+<text x="28" y="108" font-size="17" fill="#8c8a85">à partir de tes infos. Clé API côté serveur.</text>
+<circle cx="34" cy="132" r="6" fill="#3178c6"/>
+<text x="48" y="137" font-size="14" fill="#8c8a85" font-family="Consolas, 'SF Mono', Menlo, monospace">TypeScript</text>
+<text x="572" y="137" font-size="14" fill="#e10600" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, monospace">voir le repo →</text>
+</svg>
