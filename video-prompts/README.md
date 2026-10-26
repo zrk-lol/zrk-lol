@@ -6,7 +6,7 @@
 
 **Copie un prompt, remplace ce qui est entre `[crochets]`, colle-le dans Claude Code : il te code la vidéo et te la rend en MP4.**
 
-<a href="https://zrk.lol"><img src="https://img.shields.io/badge/par-%C8%A4rk-FF1E1E?style=for-the-badge&labelColor=0a0a0c" /></a>
+<a href="https://varhex.com"><img src="https://img.shields.io/badge/par-%C8%A4rk-FF1E1E?style=for-the-badge&labelColor=0a0a0c" /></a>
 <img src="https://img.shields.io/badge/prompts-20-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
 <img src="https://img.shields.io/badge/moteur-Remotion-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
 <a href="https://discord.gg/4qRhB4c5me"><img src="https://img.shields.io/badge/aide-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0c" /></a>
@@ -374,7 +374,7 @@ Rendu :
 Crée une vidéo Remotion (React + TypeScript), rendu dans out/teaser-hosting.mp4.
 
 Format : 1920x1080, 30 fps, 20 secondes.
-Produit : [Ȥrk. Hosting] — [héberge tes bots Discord et tes sites, gérés depuis un panel web]. Sortie : [BIENTÔT / DATE].
+Produit : [Varhex Hosting] — [héberge tes bots Discord et tes sites, gérés depuis un panel web]. Sortie : [BIENTÔT / DATE].
 
 Déroulé :
 1. 0–4 s : noir, un curseur clignote, la phrase "[Ton bot plante à 3 h du matin ?]" se tape.
@@ -524,7 +524,7 @@ Ajoute aussi un point rouge "REC" qui clignote en haut à gauche, et une barre d
 Crée une vidéo Remotion (React + TypeScript), rendu dans out/outro.mp4.
 
 Format : 1920x1080, 30 fps, 8 secondes. Fond #0A0A0C.
-Serveur : [NOM DU SERVEUR], lien : [discord.gg/4qRhB4c5me]. Site : [zrk.lol].
+Serveur : [NOM DU SERVEUR], lien : [discord.gg/4qRhB4c5me]. Site : [varhex.com].
 
 Déroulé :
 1. 0–2 s : une icône de bulle de chat en SVG (pas le logo officiel Discord) s'allume en néon violet #7C86FF.
@@ -541,7 +541,7 @@ Laisse les 2 dernières secondes assez calmes pour que YouTube puisse y placer s
 
 **Tu as fait une vidéo avec un de ces prompts ?** Montre-la sur le [Discord](https://discord.gg/4qRhB4c5me) 👀
 
-[← Retour au profil](https://github.com/zrk-lol) · [zrk.lol](https://zrk.lol)
+[← Retour au profil](https://github.com/zrk-lol) · [varhex.com](https://varhex.com)
 
 <img src="../assets/divider.svg" width="100%" />
 

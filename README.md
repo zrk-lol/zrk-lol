@@ -1,9 +1,9 @@
-<a href="https://zrk.lol"><img src="assets/header.svg" width="100%" alt="Ȥrk — studio digital indépendant" /></a>
+<a href="https://varhex.com"><img src="assets/header.svg" width="100%" alt="Ȥrk — studio digital indépendant" /></a>
 
 <p align="center">
-  <a href="https://zrk.lol"><img src="https://img.shields.io/badge/zrk.lol-site-e10600?style=flat-square&labelColor=111111" /></a>
+  <a href="https://varhex.com"><img src="https://img.shields.io/badge/varhex.com-site-e10600?style=flat-square&labelColor=111111" /></a>
   <a href="https://discord.gg/4qRhB4c5me"><img src="https://img.shields.io/badge/Discord-serveur-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=111111" /></a>
-  <a href="mailto:zrk.pro.dev@gmail.com"><img src="https://img.shields.io/badge/e--mail-zrk.pro.dev-e10600?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
+  <a href="mailto:zrk.pro@varhex.com"><img src="https://img.shields.io/badge/e--mail-zrk.pro%40varhex.com-e10600?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
   <img src="https://img.shields.io/badge/statut-disponible-2ea043?style=flat-square&labelColor=111111" />
 </p>
 
@@ -13,7 +13,7 @@
 <tr>
 <td width="56%" valign="top">
 
-Développeur indépendant, fondateur de **[Ȥrk.](https://zrk.lol)**
+Développeur indépendant, fondateur de **[Varhex](https://varhex.com)**
 
 Je conçois des sites web, des applications mobiles et des bots, du design à la mise en ligne. Un seul interlocuteur du premier échange jusqu'au suivi.
 
@@ -26,12 +26,12 @@ Offre en cours : **−10 %** sur tous les services avec le code `haloween26`.
 
 ```js
 const zrk = {
-  studio:  "Ȥrk.",
-  site:    "zrk.lol",
+  studio:  "Varhex",
+  site:    "varhex.com",
   fait:    ["sites", "apps", "bots"],
   bonus:   "cybersécurité",
   contact: "direct",
-  bientot: "Ȥrk. Hosting",
+  bientot: "Varhex Hosting",
 };
 ```
 
@@ -45,7 +45,7 @@ const zrk = {
 
 <h2><img src="assets/icons/projects.svg" height="30" align="top" />&nbsp; Projets open source</h2>
 
-Des bases propres et testées, prêtes à cloner, par **Vertex Code by Ȥrk Team**.
+Des bases propres et testées, prêtes à cloner, par **Varhex by Ȥrk Team**.
 
 <table>
 <tr>
@@ -62,9 +62,9 @@ Des bases propres et testées, prêtes à cloner, par **Vertex Code by Ȥrk Team
 </tr>
 </table>
 
-<h2><img src="assets/icons/hosting.svg" height="30" align="top" />&nbsp; Ȥrk. Hosting</h2>
+<h2><img src="assets/icons/hosting.svg" height="30" align="top" />&nbsp; Varhex Hosting</h2>
 
-<a href="https://zrk.lol/hosting"><img src="assets/hosting.svg" width="100%" alt="Ȥrk. Hosting, bientôt" /></a>
+<a href="https://varhex.com/hosting"><img src="assets/hosting.svg" width="100%" alt="Varhex Hosting, bientôt" /></a>
 
 <h2><img src="assets/icons/video.svg" height="30" align="top" />&nbsp; 20 prompts vidéo pour Claude</h2>
 
@@ -98,6 +98,6 @@ Six skills pour que Claude écrive et conçoive des sites qui ne ressemblent pas
 
 <h2><img src="assets/icons/contact.svg" height="30" align="top" />&nbsp; Contact</h2>
 
-Un site, une app ou un bot à lancer ? Écris-moi sur [Discord](https://discord.gg/4qRhB4c5me), par [e-mail](mailto:zrk.pro.dev@gmail.com) ou passe par [zrk.lol](https://zrk.lol).
+Un site, une app ou un bot à lancer ? Écris-moi sur [Discord](https://discord.gg/4qRhB4c5me), par [e-mail](mailto:zrk.pro@varhex.com) ou passe par [varhex.com](https://varhex.com).
 
 <a href="https://discord.gg/4qRhB4c5me"><img src="assets/footer.svg" width="100%" alt="Contact" /></a>

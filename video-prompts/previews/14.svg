@@ -12,7 +12,7 @@
 
 <g filter="url(#soft)"><rect x="60" y="48" width="520" height="222" rx="12" fill="#121216" stroke="#2c2c2c"/></g>
 <rect x="60" y="48" width="110" height="222" rx="12" fill="#0e0e12"/>
-<text x="78" y="78" font-size="16" fill="#e10600" font-weight="900" text-anchor="start" >Ȥrk.</text>
+<text x="78" y="78" font-size="16" fill="#e10600" font-weight="900" text-anchor="start" >Varhex</text>
 <rect x="76" y="96" width="78" height="18" rx="5" fill="#e10600" opacity="1"/><rect x="76" y="124" width="78" height="18" rx="5" fill="#1b1b21" opacity="0.9"/><rect x="76" y="152" width="78" height="18" rx="5" fill="#1b1b21" opacity="0.9"/><rect x="76" y="180" width="78" height="18" rx="5" fill="#1b1b21" opacity="0.9"/><rect x="76" y="208" width="78" height="18" rx="5" fill="#1b1b21" opacity="0.9"/>
 <rect x="186" y="70" width="236" height="32" rx="7" fill="#1b1b21" stroke="#2c2c2c"/><circle cx="202" cy="86" r="5" fill="#2ee66b"/><text x="214" y="91" font-size="12" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">bot-musique</text><rect x="186" y="110" width="236" height="32" rx="7" fill="#1b1b21" stroke="#2c2c2c"/><circle cx="202" cy="126" r="5" fill="#2ee66b"/><text x="214" y="131" font-size="12" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">site-client</text><rect x="186" y="150" width="236" height="32" rx="7" fill="#1b1b21" stroke="#2c2c2c"/><circle cx="202" cy="166" r="5" fill="#ffb020"/><text x="214" y="171" font-size="12" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">bot-tickets</text><rect x="186" y="190" width="236" height="32" rx="7" fill="#1b1b21" stroke="#2c2c2c"/><circle cx="202" cy="206" r="5" fill="#2ee66b"/><text x="214" y="211" font-size="12" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">api-shop</text>
 <rect x="436" y="70" width="128" height="152" rx="8" fill="#1b1b21" stroke="#2c2c2c"/><text x="448" y="90" font-size="10" fill="#8c8a85" font-weight="400" text-anchor="start" >CPU</text>
@@ -22,7 +22,7 @@
 <text x="59" y="33" font-size="11" fill="#e10600" font-weight="800" text-anchor="middle" letter-spacing="1.5">PROMPT 14</text>
 <rect x="528" y="16" width="96" height="24" rx="12" fill="#000" fill-opacity=".55" stroke="#2c2c2c"/>
 <text x="576" y="33" font-size="11" fill="#8c8a85" font-weight="600" text-anchor="middle" >16:9 · 20 s</text>
-<text x="20" y="316" font-size="20" fill="#f2f0eb" font-weight="700" text-anchor="start" >Lancement Ȥrk. Hosting</text>
+<text x="20" y="316" font-size="20" fill="#f2f0eb" font-weight="700" text-anchor="start" >Lancement Varhex Hosting</text>
 <path d="M22 334l9 5.5-9 5.5z" fill="#f2f0eb"/>
 <rect x="42" y="337" width="576" height="4" rx="2" fill="#fff" fill-opacity=".18"/>
 <rect x="42" y="337" width="258" height="4" rx="2" fill="#e10600"/>

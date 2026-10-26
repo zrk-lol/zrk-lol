@@ -11,7 +11,7 @@
 <rect width="1200" height="290" fill="#111111"/>
 <rect x="680" y="40" width="480" height="220" rx="14" fill="#1a1a1a" stroke="#2c2c2c" filter="url(#soft)"/>
 <circle cx="702" cy="62" r="5" fill="#ff5f57"/><circle cx="720" cy="62" r="5" fill="#febc2e"/><circle cx="738" cy="62" r="5" fill="#28c840"/>
-<text x="1140" y="67" font-size="13" fill="#8c8a85" font-weight="400" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, monospace">panel.zrk.lol</text>
+<text x="1140" y="67" font-size="13" fill="#8c8a85" font-weight="400" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, monospace">panel.varhex.com</text>
 <rect x="700" y="92" width="440" height="36" rx="8" fill="#17171c" stroke="#2c2c2c"/>
 <circle cx="722" cy="110" r="5" fill="#2ee66b"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="738" y="115" font-size="16" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">bot-discord</text>
@@ -23,13 +23,13 @@
 <text x="738" y="207" font-size="16" fill="#f2f0eb" font-weight="600" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">api-boutique</text>
 <text x="1124" y="207" font-size="14" fill="#8c8a85" font-weight="400" text-anchor="end" >déploiement</text>
 <path d="M700 250 C760 236 800 244 850 230 S950 218 1000 226 S1100 214 1140 220" fill="none" stroke="#e10600" stroke-width="2" opacity=".7"/>
-<text x="48" y="92" font-size="46" fill="#f2f0eb" font-weight="800" text-anchor="start" >Ȥrk. Hosting</text>
-<rect x="372" y="62" width="132" height="34" rx="17" fill="#e10600" fill-opacity=".15" stroke="#e10600"/>
-<text x="438" y="85" font-size="15" fill="#e10600" font-weight="800" text-anchor="middle" letter-spacing="3">BIENTÔT</text>
+<text x="48" y="92" font-size="46" fill="#f2f0eb" font-weight="800" text-anchor="start" >Varhex Hosting</text>
+<rect x="450" y="62" width="132" height="34" rx="17" fill="#e10600" fill-opacity=".15" stroke="#e10600"/>
+<text x="516" y="85" font-size="15" fill="#e10600" font-weight="800" text-anchor="middle" letter-spacing="3">BIENTÔT</text>
 <text x="48" y="140" font-size="22" fill="#8c8a85" font-weight="400" text-anchor="start" >Héberge tes bots Discord et tes sites web,</text>
 <text x="48" y="170" font-size="22" fill="#8c8a85" font-weight="400" text-anchor="start" >et gère tout depuis un seul panel.</text>
 <rect x="48" y="200" width="200" height="46" rx="10" fill="url(#red)"/>
 <text x="148" y="230" font-size="18" fill="#fff" font-weight="700" text-anchor="middle" >Découvrir  →</text>
-<text x="268" y="230" font-size="16" fill="#8c8a85" font-weight="400" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">zrk.lol/hosting</text>
+<text x="268" y="230" font-size="16" fill="#8c8a85" font-weight="400" text-anchor="start" font-family="Consolas, 'SF Mono', Menlo, monospace">varhex.com/hosting</text>
 </g>
 </svg>

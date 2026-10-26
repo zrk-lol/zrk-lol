@@ -12,6 +12,6 @@
 <path d="M0 150 C200 110 400 190 600 150 S1000 110 1200 150" fill="none" stroke="#e10600" stroke-width="2" filter="url(#neon)" opacity=".8"/>
 <text x="600" y="70" font-size="30" fill="#f2f0eb" font-weight="700" text-anchor="middle" >Une idée de site, d'app ou de bot ?</text>
 <text x="600" y="108" font-size="19" fill="#8c8a85" font-weight="400" text-anchor="middle" >Écris-moi sur Discord ou par e-mail, je réponds moi-même.</text>
-<text x="600" y="200" font-size="15" fill="#8c8a85" font-weight="400" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace">© 2026 Ȥrk  ·  zrk.lol</text>
+<text x="600" y="200" font-size="15" fill="#8c8a85" font-weight="400" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace">© 2026 Ȥrk  ·  varhex.com</text>
 </g>
 </svg>

@@ -13,14 +13,14 @@
 <rect x="230" y="22" width="180" height="300" rx="18" fill="url(#red)"/>
 <rect x="230" y="22" width="180" height="300" rx="18" fill="url(#fade)" opacity=".5"/>
 <rect x="244" y="34" width="48" height="3" rx="1.5" fill="#fff"/><rect x="296" y="34" width="48" height="3" rx="1.5" fill="#fff" opacity=".5"/><rect x="348" y="34" width="48" height="3" rx="1.5" fill="#fff" opacity=".5"/>
-<circle cx="256" cy="54" r="10" fill="#000"/><text x="272" y="58" font-size="11" fill="#fff" font-weight="700" text-anchor="start" >zrk.lol</text>
+<circle cx="256" cy="54" r="10" fill="#000"/><text x="272" y="58" font-size="11" fill="#fff" font-weight="700" text-anchor="start" >varhex.com</text>
 <rect x="252" y="98" width="136" height="34" rx="8" fill="#fff" transform="rotate(-6 320 115)"/>
 <text x="320" y="121" text-anchor="middle" font-size="16" font-weight="900" fill="#e10600" transform="rotate(-6 320 115)">NOUVEAU SITE</text>
 <g filter="url(#soft)"><rect x="252" y="146" width="136" height="86" rx="10" fill="#141418" stroke="#2c2c2c"/></g>
 <rect x="252" y="146" width="136" height="26" rx="10" fill="#1b1b21"/>
 <circle cx="266" cy="159" r="4" fill="#ff5f57"/><circle cx="279" cy="159" r="4" fill="#febc2e"/><circle cx="292" cy="159" r="4" fill="#28c840"/>
 <rect x="250.0" y="152" width="140" height="14" rx="7" fill="#0e0e12"/>
-<text x="320.0" y="163" font-size="9" fill="#8c8a85" font-weight="400" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace">zrk.lol</text>
+<text x="320.0" y="163" font-size="9" fill="#8c8a85" font-weight="400" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace">varhex.com</text>
 <rect x="250" y="246" width="140" height="50" rx="10" fill="#fff"/>
 <text x="320" y="264" font-size="11" fill="#111" font-weight="700" text-anchor="middle" >Tu valides ?</text>
 <rect x="258" y="272" width="60" height="18" rx="9" fill="#e10600"/><text x="288" y="285" font-size="10" fill="#fff" font-weight="800" text-anchor="middle" >OUI</text>
