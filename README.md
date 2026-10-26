@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://varhex.com"><img src="https://img.shields.io/badge/varhex.com-site-e10600?style=flat-square&labelColor=111111" /></a>
   <a href="https://www.tiktok.com/@vertex.code.zrk"><img src="https://img.shields.io/badge/TikTok-@vertex.code.zrk-ffffff?style=flat-square&logo=tiktok&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.instagram.com/varhex_by_zrk"><img src="https://img.shields.io/badge/Instagram-@varhex__by__zrk-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=111111" /></a>
   <a href="https://discord.gg/4qRhB4c5me"><img src="https://img.shields.io/badge/Discord-serveur-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=111111" /></a>
   <a href="https://wa.me/33787444309"><img src="https://img.shields.io/badge/WhatsApp-écrire-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=111111" /></a>
   <a href="mailto:zrk.pro@varhex.com"><img src="https://img.shields.io/badge/e--mail-zrk.pro%40varhex.com-e10600?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
@@ -72,7 +73,7 @@ Un projet, une question ou un devis ? Écris où tu préfères, la Ȥrk Team ré
 | <img src="https://cdn.simpleicons.org/discord/5865F2" height="16" /> **Discord** | [discord.gg/4qRhB4c5me](https://discord.gg/4qRhB4c5me) | Échanger, suivre les projets, entraide |
 | <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="16" /> **TikTok** | [@vertex.code.zrk](https://www.tiktok.com/@vertex.code.zrk) | Coulisses, tutos, prompts et skills Claude |
 | <img src="https://cdn.simpleicons.org/github/ffffff" height="16" /> **GitHub** | [zrk-lol](https://github.com/zrk-lol) | Le code open source et les templates |
-| <img src="https://cdn.simpleicons.org/instagram/E4405F" height="16" /> **Instagram** | bientôt | — |
+| <img src="https://cdn.simpleicons.org/instagram/E4405F" height="16" /> **Instagram** | [@varhex_by_zrk](https://www.instagram.com/varhex_by_zrk) | Réalisations, coulisses du studio, nouveautés |
 
 <h2 id="-services"><img src="assets/icons/services.svg" height="30" align="top" />&nbsp; Services</h2>
 
@@ -270,6 +271,7 @@ Oui, en français et en anglais, et les projets peuvent être livrés dans les d
 <p align="center">
 <a href="https://varhex.com"><img src="https://img.shields.io/badge/varhex.com-e10600?style=flat-square&labelColor=111111" /></a>
 <a href="https://www.tiktok.com/@vertex.code.zrk"><img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.instagram.com/varhex_by_zrk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="https://discord.gg/4qRhB4c5me"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://wa.me/33787444309"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:zrk.pro@varhex.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
