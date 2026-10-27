@@ -156,7 +156,14 @@ Des bases propres et testées, prêtes à cloner, par **Varhex by Ȥrk Team**.
 </tr>
 <tr>
 <td><a href="https://github.com/zrk-lol/automation-template"><img src="assets/cards/automation-template.svg" width="100%" /></a></td>
-<td><a href="https://github.com/zrk-lol/claude-skills-anti-ia"><img src="assets/cards/claude-skills-anti-ia.svg" width="100%" /></a></td>
+<td><a href="https://github.com/zrk-lol/claude-contre-expertise"><img src="assets/cards/claude-contre-expertise.svg" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/zrk-lol/claude-couteau-suisse"><img src="assets/cards/claude-couteau-suisse.svg" width="100%" /></a></td>
+<td><a href="https://github.com/zrk-lol/claude-token-saver"><img src="assets/cards/claude-token-saver.svg" width="100%" /></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/zrk-lol/claude-skills-anti-ia"><img src="assets/cards/claude-skills-anti-ia.svg" width="50%" /></a></td>
 </tr>
 </table>
 
@@ -167,7 +174,10 @@ Des bases propres et testées, prêtes à cloner, par **Varhex by Ȥrk Team**.
 | [api-template](https://github.com/zrk-lol/api-template) | Une API REST Hono + Zod, protégée par clé API, avec tests | `npm install` puis `npm run dev` |
 | [ai-assistant-template](https://github.com/zrk-lol/ai-assistant-template) | Le back-end d'un assistant de site qui ne répond qu'avec tes infos | `npm install` puis `npm run dev` |
 | [automation-template](https://github.com/zrk-lol/automation-template) | Surveiller tes sites avec GitHub Actions et une alerte Discord | `npm install` puis `npm run dev` |
-| [claude-skills-anti-ia](https://github.com/zrk-lol/claude-skills-anti-ia) | 6 skills pour que Claude fasse des sites qui ne sentent pas l'IA | `/plugin marketplace add zrk-lol/claude-skills-anti-ia` |
+| [claude-contre-expertise](https://github.com/zrk-lol/claude-contre-expertise) | Claude revérifie seul ses réponses sensibles (chiffres, argent, santé, droit, code) | `/plugin marketplace add zrk-lol/claude-contre-expertise` |
+| [claude-couteau-suisse](https://github.com/zrk-lol/claude-couteau-suisse) | 14 commandes pour tous les jours : résumer, vérifier, décider, négocier, relire… | `/plugin marketplace add zrk-lol/claude-couteau-suisse` |
+| [claude-token-saver](https://github.com/zrk-lol/claude-token-saver) | Dépenser moins de tokens : CLI `ctxpack`, skill et templates `CLAUDE.md` | `npx github:zrk-lol/claude-token-saver` |
+| [claude-skills-anti-ia](https://github.com/zrk-lol/claude-skills-anti-ia) | 9 skills pour que Claude fasse des sites et des textes qui ne sentent pas l'IA | `/plugin marketplace add zrk-lol/claude-skills-anti-ia` |
 
 <h2 id="-pack-vidéo"><img src="assets/icons/video.svg" height="30" align="top" />&nbsp; 20 prompts vidéo pour Claude</h2>
 
